@@ -541,7 +541,6 @@ def main():
                 label="Download CSV",
                 data=csv,
                 file_name="top_merit_sources_all_time.csv",
-          border-radius: 0.5rem;
         padding: 1rem;
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     }
